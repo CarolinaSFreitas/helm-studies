@@ -51,4 +51,3 @@ Com o ``helm`` podem ser vistas as ações mais comuns pro Helm, variáveis de a
 - `` helm list ``:      list releases of charts
 
 
-
